@@ -76,7 +76,9 @@ The full training datasets and large model checkpoint are stored in Google Drive
 - GPU optional (auto-detects, falls back to CPU)
 - ~500MB disk space (without large files)
 
-## Author
-**Debjit Das**  
-🔗 [GitHub](https://github.com/Das-Debjit)  
-🔗 [LinkedIn](https://www.linkedin.com/in/debjitdas82/)
+## Team
+| Name | GitHub |
+|------|--------|
+| Debjit Das | [Das-Debjit](https://github.com/Das-Debjit) |
+| Sajani Dengle | [sajanidengle](https://github.com/sajanidengle) |
+| Caroline Manjari | [caroline-18](https://github.com/caroline-18) |
